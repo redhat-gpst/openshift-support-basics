@@ -69,8 +69,6 @@ Thu Apr  9 02:21:53 UTC 2015
 
 # Other Resources
 
-Complete Lab on Kubernetes - https://collabnix.github.io/kubelabs/
-
 OpenShift Documentation - https://docs.openshift.com/
 
 Kubernetes Documentation - https://kubernetes.io/docs/home/
@@ -81,6 +79,8 @@ Red Hat OPEN Training - https://connect.redhat.com/
 OpenShift Learning Site - https://learn.openshift.com/
 
 O'Reilly Katacoda - https://www.katacoda.com/courses/kubernetes
+
+Complete Lab on Kubernetes - https://collabnix.github.io/kubelabs/
 
 ## CLI Guides
 
