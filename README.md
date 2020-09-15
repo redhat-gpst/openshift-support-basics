@@ -22,7 +22,7 @@ Create a project with the same name as your username if one does not exist.
 
 ### Finding pods and nodes
 
-[Viewing Pods](https://docs.openshift.com/container-platform/4.5/nodes/pods/nodes-pods-viewing.html])
+[Viewing Pods](https://docs.openshift.com/container-platform/4.5/nodes/pods/nodes-pods-viewing.html)
 
 [Viewing Nodes](https://docs.openshift.com/container-platform/4.5/nodes/nodes/nodes-nodes-viewing.html)
 
