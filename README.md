@@ -4,6 +4,14 @@ These are labs that help to learn how to be functional for basic administration 
 
 ## Getting Started
 
+Connect to the EtherPad instance for the class to claim a username. Both links will be provided in the chat window of the class.
+
+Sample URL: http://etherpad-labs.apps.cluster-cloudera-aa43.cloudera-aa43.example.opentlc.com/p/cloudera
+
+Usernames have the format of user1 to user50 and the password is openshift.
+
+## Architecture
+
 ### Accessing OpenShift
 
 [Installing a web terminal](http://redhatgov.io/workshops/openshift_4_101/lab0-terminal/)
