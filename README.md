@@ -16,7 +16,7 @@ Usernames have the format of user1 to user50 and the password is openshift.
 
 Anywhere it says to create a project, just use the project speicfic to your user, like user1 uses project user1.
 
-[Installing a web terminal](http://redhatgov.io/workshops/openshift_4_101/lab0-terminal/)
+[Installing a web terminal](http://redhatgov.io/workshops/openshift_4_101/lab0-terminal/) -- Container name is quay.io/openshifthomeroom/workshop-terminal
 
 [Using the "oc" command line](http://redhatgov.io/workshops/openshift_4_101/lab1-welcome/)
 
