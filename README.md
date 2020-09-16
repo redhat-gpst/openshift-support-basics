@@ -26,15 +26,33 @@ Create a project with the same name as your username if one does not exist.
 
 [Viewing Nodes](https://docs.openshift.com/container-platform/4.5/nodes/nodes/nodes-nodes-viewing.html)
 
-## Network and Storage Labs
+## Network, Security, and Storage
 
 ### Viewing Network Policies, Ingress, and Routes
 
 [Network Policy](https://docs.openshift.com/container-platform/4.5/networking/network_policy/about-network-policy.html)
 
+### Secrets and other things Security
+
+[Container Security - OpenShift docs](https://docs.openshift.com/container-platform/4.5/security/container_security/security-understanding.html)
+
+[10 Layers of Container Security](https://www.redhat.com/en/resources/container-security-openshift-cloud-devops-whitepaper)
+
+[OpenShift secrets](https://docs.openshift.com/container-platform/4.5/nodes/pods/nodes-pods-secrets.html)
+
+[Kubernetes secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+
+Using HashiCorp Vault with OpenShift 4.
+https://www.openshift.com/blog/vault-integration-using-kubernetes-authentication-method
+https://www.openshift.com/blog/integrating-vault-with-legacy-applications
+https://www.openshift.com/blog/integrating-hashicorp-vault-in-openshift-4
+https://www.redhat.com/en/resources/container-security-openshift-cloud-devops-whitepaper
+
 ### Viewing StorageClasses, Persistent Volumes, and Claims
 
-TBD
+[Storage - Kubernetes docs](https://kubernetes.io/docs/concepts/storage/)
+
+[Persistent Storage - OpenShift docs](https://docs.openshift.com/container-platform/4.5/storage/understanding-persistent-storage.html)
 
 ## Observability
 
