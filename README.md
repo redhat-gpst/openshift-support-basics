@@ -1,4 +1,4 @@
-# OpenShift Support Basics - Labs
+# OpenShift Support Basics
 
 These are labs that help to learn how to be functional for basic administration tasks.
 
@@ -43,9 +43,13 @@ Create a project with the same name as your username if one does not exist.
 [Kubernetes secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
 
 Using HashiCorp Vault with OpenShift 4.
+
 https://www.openshift.com/blog/vault-integration-using-kubernetes-authentication-method
+
 https://www.openshift.com/blog/integrating-vault-with-legacy-applications
+
 https://www.openshift.com/blog/integrating-hashicorp-vault-in-openshift-4
+
 https://www.redhat.com/en/resources/container-security-openshift-cloud-devops-whitepaper
 
 ### Viewing StorageClasses, Persistent Volumes, and Claims
